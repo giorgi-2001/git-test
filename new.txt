@@ -1,0 +1,3 @@
+This is the new file lol
+
+I suggest using nano instead of echo, it's more pro :)
